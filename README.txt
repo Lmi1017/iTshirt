@@ -3,3 +3,4 @@
 [ 개발자 목록 ]
 1. 고양이 : front-end
 2. 문어 : back-end
+3. 너구리 : back-end
